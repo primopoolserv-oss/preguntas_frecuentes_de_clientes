@@ -8,18 +8,18 @@
 Trabajamos de lunes a viernes de 8:00 AM a 6:00 PM. Los sabados y domingos solo atendemos emergencias.
 
 ### ¿Cuánto tiempo toma el servicio?
-- Mantenimiento regular: 45-60 minutos
-- Limpieza profunda: 2-4 horas
+- Mantenimiento regular: 15-20 minutos (varia segun el estado de su piscina)
+- Limpieza profunda: 2-4 horas (varia segun el estado de su piscina)
 - Reparaciones: Variable según el problema
 
 ### ¿Necesito estar en casa durante el servicio?
-No es necesario. Muchos clientes nos dan acceso y trabajamos mientras están fuera. Solo necesitamos acceso a la piscina y toma de agua.
+No es necesario. Muchos clientes nos dan acceso y trabajamos mientras están fuera. Solo necesitamos acceso a la piscina y toma de agua. Por favor si tiene perros dejarlos dentro de la casa el dia de vicita.
 
 ### ¿Qué pasa si llueve el día de mi servicio?
-Reprogramamos sin costo adicional. Te avisamos con anticipación.
+la vicita se mantiene. En caso de no poder reprogramamos sin costo adicional. Te avisamos con anticipación.
 
 ### ¿Puedo cambiar mi día de servicio?
-Sí, con 48 horas de anticipación. Sujeto a disponibilidad.
+Sí, con 48 horas de anticipación. Sujeto a disponibilidad. Tambien es probable que te solicitemos cambiar el dia en algun momento. Pero nos ajustaremos en la mayor medida a sus requerimientos.
 
 ## Sobre Problemas Comunes
 
@@ -50,6 +50,7 @@ Sí, por evaporación puede bajar 1-2 cm por semana. Si baja más, puede haber u
 ### ¿Qué productos usan?
 Usamos productos profesionales de alta calidad:
 - Cloro granulado o líquido
+- tabletas de cloro
 - Reguladores de pH
 - Alguicidas
 - Clarificadores
@@ -66,6 +67,7 @@ Sí, después de 30 minutos del servicio regular. Después de tratamientos espec
 Aceptamos:
 - Efectivo
 - Transferencia bancaria
+- Zelle
 - Tarjeta de crédito/débito
 
 ### ¿Cuándo debo pagar?
@@ -91,4 +93,4 @@ Sí, atendemos emergencias de lunes a domingo. Tiene un costo adicional del 30%.
 - Agua extremadamente verde antes de un evento
 
 ### ¿Cuánto tardan en llegar en emergencia?
-Máximo 4 horas en horario laboral. Fuera de horario, al día siguiente temprano.
+Máximo 4 horas en horario laboral. Fuera de horario, al día siguiente temprano. tambien depende de la distancia a la que se encuentre.
